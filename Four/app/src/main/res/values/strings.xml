@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Four</string>
+    <string name="h1_1">Text composable</string>
+    <string name="para1">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="h1_2">Image composable</string>
+    <string name="para2">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="h1_3">Row composable</string>
+    <string name="para3">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="h1_4">Column composable</string>
+    <string name="para4">A layout composable that places its children in a vertical sequence.</string>
+
+</resources>
