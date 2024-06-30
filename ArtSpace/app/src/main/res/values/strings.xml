@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="picture_1">picture 1</string>
+    <string name="picture_2">picture 2</string>
+    <string name="picture_3">picture 3</string>
+    <string name="picture_4">picture 4</string>
+    <string name="picture_5">picture 5</string>
+    <string name="picture_6">picture 6</string>
+    <string name="picture_7">picture 7</string>
+    <string name="picture_8">picture 8</string>
+    <string name="picture_9">picture 9</string>
+
+
+    <string name="artist_1">artist 1</string>
+    <string name="artist_2">artist 2</string>
+    <string name="artist_3">artist 3</string>
+    <string name="artist_4">artist 4</string>
+    <string name="artist_5">artist 5</string>
+    <string name="artist_6">artist 6</string>
+    <string name="artist_7">artist 7</string>
+    <string name="artist_8">artist 8</string>
+    <string name="artist_9">artist 9</string>
+
+    <string name="year_1">1901</string>
+    <string name="year_2">1902</string>
+    <string name="year_3">1903</string>
+    <string name="year_4">1904</string>
+    <string name="year_5">1905</string>
+    <string name="year_6">1906</string>
+    <string name="year_7">1907</string>
+    <string name="year_8">1908</string>
+    <string name="year_9">1909</string>
+
+    <string name="button_1">prev</string>
+    <string name="button_2">next</string>
+</resources>
